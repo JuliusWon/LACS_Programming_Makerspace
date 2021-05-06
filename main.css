@@ -1,8 +1,9 @@
 body {
-	background-color: #3b3b3b;
+	background-image: url('Background.png');
 	background-size:normal;
-	background-repeat:no-repeat;
-  color: #fff
+	background-repeat:repeat;
+  color: #fff;
+  text-align: center
 }
 .button {
   height:200px;
