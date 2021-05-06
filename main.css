@@ -1,0 +1,27 @@
+body {
+	background-color: #3b3b3b;
+	background-size:normal;
+	background-repeat:no-repeat;
+  color: #fff
+}
+.button {
+  height:200px;
+  width:200px;
+  border-radius: 7px;
+  background-color: #1b1b1b;
+  color:  #ffffff;
+  padding: 100px 10px;
+  text-align: center;
+  font-size: 15px;
+  cursor: pointer;
+  background-image: "https://i.pinimg.com/originals/36/30/9f/36309f22e4c16447b085400be01bbc1e.png";
+}
+
+.button:hover {
+  background-color: #1b1b1b;
+  color: rgb(0, 204, 255);
+  border-color:rgb(0, 0, 0)
+}
+.droid {
+  font-family: 'georgia',italic;
+}
