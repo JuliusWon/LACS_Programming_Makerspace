@@ -10,3 +10,8 @@ function OpenGithub(){
 function OpenURL(URL){
     window.open(URL);
 }
+function spamAlerts(numAlerts){
+    for(i = 0; i<numAlerts;i++){
+        alert("You were warned, "+(numAlerts-i)+" alerts left");
+    }
+}
