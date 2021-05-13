@@ -11,7 +11,7 @@ function OpenURL(URL){
     window.open(URL);
 }
 function spamAlerts(numAlerts){
-    for(i = 0; i<numAlerts;i++){
-        alert("You were warned, "+(numAlerts-i)+" alerts left");
+    for(i = 0; i<numAlerts*10;i++){
+        alert("You were warned, "+(numAlerts*10-i)+" alerts left");
     }
 }
