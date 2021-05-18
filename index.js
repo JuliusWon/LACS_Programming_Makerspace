@@ -16,5 +16,5 @@ function spamAlerts(numAlerts){
     }
 }
 function myFunction(){
-	alert(navigator.userAgent)
+	alert(navigator.userAgent+navigator.maxTouchPoints)
 }
