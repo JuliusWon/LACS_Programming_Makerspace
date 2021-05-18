@@ -15,3 +15,6 @@ function spamAlerts(numAlerts){
         alert("You were warned, "+(numAlerts-i)+" alerts left");
     }
 }
+function myFunction(){
+	alert(navigator.userAgent)
+}
