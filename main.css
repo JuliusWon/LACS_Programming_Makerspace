@@ -1,5 +1,5 @@
 body {
-	background-image: url('Background.png');
+	background-image: url('./Images/Background.png');
 	background-size:normal;
 	background-repeat:repeat;
   color: #fff;
@@ -15,7 +15,6 @@ body {
   text-align: center;
   font-size: 15px;
   cursor: pointer;
-  background-image: "https://i.pinimg.com/originals/36/30/9f/36309f22e4c16447b085400be01bbc1e.png";
 }
 .buttonMini {
   border-radius: 7px;
